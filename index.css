@@ -3,3 +3,22 @@
     height: auto;
     margin-bottom: 20px;
     }
+    /*Davids css section */
+    
+.container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: antiquewhite;
+    margin: 10px;
+}
+.dav-pic{
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+    border-radius: 3px;
+}
+.content{
+    margin-left: 20px;
+}
+/* End of Davids css section */
