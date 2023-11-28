@@ -76,3 +76,41 @@ a:hover {
   margin-top: 10px;
 }
 /* End of css*/
+/* Lewis Andanje section*/
+#lewis-container {
+  display: flex;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  align-items: center;
+  width: 100%;
+  height: 200%;
+}
+
+#lewis-img {
+  width: 100px;
+  height: 100px;
+
+  object-fit: cover;
+  margin-right: 50px;
+  
+}
+.lewis{
+  color: black;
+}
+
+#lewis-details {
+  text-align: left;
+}
+
+#lewis-name {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+#lewis-description {
+  color: #666;
+  margin-bottom: 20px;
+}
