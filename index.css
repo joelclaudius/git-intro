@@ -64,5 +64,15 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
+/*esther css*/
+.container2{
+  font-family: 'Ephesis', cursive;
+  background-color: rgb(132, 124, 227);
+}
+.container2 form {
+  border: 10px solid #ccc;
+  width: 350px;
+  padding: 10px;
+  margin-top: 10px;
+}
 /* End of css*/
