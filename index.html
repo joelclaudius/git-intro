@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Github class</title>
     <link rel="stylesheet" type="text/css" href="index.css" />
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   </head>
   <body>
     <p>These are the team members</p>
@@ -91,6 +94,28 @@
           <p>Hobbies: Playing chess, playing football</p>
         </div>
       </div>
+      <br>
+      <hr>
+      <div class="container2">
+          <p>Name: Esther Naisimoi</p>
+          <p>I am a student taking Bachelosrs degree of Science in Information Technology in the greatest Zetech university kenya</p>
+          <p>I am a web developer and a cyber security enthusiast</p>
+          <p>I love playing football, coding and travelling.</p>
+          <p id="demo"></p>
+          <button onclick="getLocation()">For more infor Click here</button>
+          <br>
+          you can contact me  from here 
+          
+          <form>
+            Enter your name: <input type="text" id="fname" oninput="upperCase()">
+            <br>
+            enter your email:<input type="text" id="mail" oninput="lowerCase()">
+            <br>
+            your inquiry:<input type="text" id="inqry" oninput="lowerCase()">
+          </form>
+      </div>
+      </div>
     </main>
+    <script src="index.js"></script>
   </body>
 </html>
