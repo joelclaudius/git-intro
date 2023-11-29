@@ -13,8 +13,6 @@ Welcome to the team portfolio of our collaborative project! Our team comprises s
    - _Role:_ Web Developer
    - _GitHub:_ [David's GitHub](https://github.com/davidnangila)
 
-<!--
-
 ## Repository Information
 
 Our project repository is hosted on GitHub at [git-intro](https://github.com/joelclaudius/git-intro). Feel free to explore the codebase, check out our commits, and contribute to our collaborative efforts.
