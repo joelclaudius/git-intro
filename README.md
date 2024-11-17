@@ -1,4 +1,4 @@
-# Team Portfolio
+# Team Portfolio..
 
 Welcome to the team portfolio of our collaborative project! Our team comprises seven dedicated members, and we've come together to create a dynamic web portfolio using HTML, CSS, and JavaScript. Explore our individual contributions and check out the code repository for more details.
 
